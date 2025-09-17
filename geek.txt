@@ -1,0 +1,2 @@
+hello python is easy for handling files
+I love python
